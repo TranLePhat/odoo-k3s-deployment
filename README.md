@@ -319,3 +319,33 @@ Successfully deployed and operated an Odoo ERP environment on Kubernetes with:
 * Infrastructure failure recovery validation
 
 The project provided hands-on experience with Kubernetes operations and production-oriented application management.
+
+# Screenshots
+
+## Kubernetes Pods
+
+![Pods](screenshots/01-pods.png)
+
+## Persistent Volumes
+
+![PVC](screenshots/02-pvc.png)
+
+## Dual Ingress Architecture
+
+![Ingress](screenshots/03-ingress.png)
+
+## Ingress Classes
+
+![IngressClass](screenshots/04-ingressclass.png)
+
+## Odoo Application
+
+![Odoo](screenshots/05-odoo-ui.png)
+
+## Services and PVC
+
+![Services](screenshots/06-svc,pvc.png)
+
+## Database Backup
+
+![Backup](screenshots/07-backupfile.png)
