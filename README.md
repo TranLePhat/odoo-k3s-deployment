@@ -23,6 +23,10 @@ The project was designed to achieve the following goals:
 
 # Architecture
 
+## Architecture Diagram
+
+![Architecture](diagrams/architecture.png)
+
 ## Infrastructure
 
 Environment:
